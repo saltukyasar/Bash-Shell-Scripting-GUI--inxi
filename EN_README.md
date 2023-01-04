@@ -7,38 +7,35 @@ GUI (Graphical User Interface) are designs developed to help electronic devices 
 
 Later, in 1981, a group of Alan Kay, Douglas Engelbart and a group of researchers developed the first GUI in Xerox PARC so that users could use personal computers more comfortably.
 
-## :arrow_down: What is the wget Command??
+## :arrow_down: What is the inxi Command??
 
 
-Wget is the non-interactive network downloader which is used to download files from the server even when the user has not logged on to the system and it can work in the background without hindering the current process.  
+- The Inxi manual defines `inxi` as "command-line system information script for console and IRC". Extremely efficient (fast), detailed and modular `inxi` provides you with the details of any area of your computer you want to examine or explore.
 
--   GNU wget is a free utility for non-interactive download of files from the Web. It supports HTTP, HTTPS, and FTP protocols, as well as retrieval through HTTP proxies.  
-    
--   wget is non-interactive, meaning that it can work in the background, while the user is not logged on. This allows you to start a retrieval and disconnect from the system, letting wget finish the work. By contrast, most of the Web browsers require constant user’s presence, which can be a great hindrance when transferring a lot of data.  
-    
--   wget can follow links in HTML and XHTML pages and create local versions of remote web sites, fully recreating the directory structure of the original site. This is sometimes referred to as recursive downloading. While doing that, wget respects the Robot Exclusion Standard (/robots.txt). wget can be instructed to convert the links in downloaded HTML files to the local files for offline viewing.  
-    
--   wget has been designed for robustness over slow or unstable network connections; if a download fails due to a network problem, it will keep retrying until the whole file has been retrieved. If the server supports resuming, it will instruct the server to continue the download from where it left off.
-- The simplest syntax is as follows: `wget [OPTIONS] [URL]`
+- This may be of interest to users who have purchased new hardware (or a brand new system) and want to explore how the operating system sees the hardware. DevOps engineers may also be interested in using `inxi` when managing remote servers in the cloud to explore their capabilities and see if the hardware they're paying for is actually out there.
+
+- Support engineers may find the tool useful for debugging a specific issue, and QA (or performance) engineers may use `inxi` to ensure their servers are tuned for maximum test and/or measurement performance.
+
+- We can also capture the output of `inxi` from a script and use it to make intelligent system-based decisions such as whether to install software based on processor capabilities.
 
 ## :floppy_disk: Requirements
-You must have `zenity` and `wget` installed on your local machine. You can do these installations using the command lines mentioned below. Don't forget to update your apt-get package lists with the `sudo apt-get update` command before running the following command lines. Doing so will allow you to download the latest version of `wget`.
+You must have `zenity` and `inxi` installed on your local machine. You can do these installations using the command lines mentioned below. Don't forget to update your apt-get package lists with the `sudo apt-get update` command before running the following command lines. Doing so will allow you to download the latest version of `inxi`.
 
 - `sudo apt-get install zenity`
-- `sudo apt-get install wget`
+- `sudo apt-get install inxi`
 
 You can make sure that the downloads are successful or not by typing the following commands in the terminal.
 
-- `wget --version`
+- `inxi --version`
 - `zenity --version`
 
 ## :mag_right: Installation & Usage
 
 - In the terminal you opened in a directory, download a clone of the repo to your local machine with the following command line: 
--- `https://github.com/fatihes1/GUI-Bash-Script--wget.git`
+-- `https://github.com/saltukyasar/Bash-Shell-Scripting-GUI--inxi.git`
 
-- After the repo is downloaded to your local machine, enter the repo directory with the `cd GUI-Bash-Script--wget` command.
-- The program is run with the `./script.sh` or `bash script.sh` command.
+- After the repo is downloaded to your local machine, enter the repo directory with the `cd Bash-Shell-Scripting-GUI--inxi/` command.
+- The program is run with the `./inxi_GUI.sh` or `bash inxi_GUI.sh` command.
 - After this process, the required operations (file URL information, etc.) are given as input to the program in the user interface of the program and the program runs the necessary functions.
 
 ## :framed_picture: Program Images
@@ -46,7 +43,7 @@ You can make sure that the downloads are successful or not by typing the followi
 
 ![01]()
  
-- The window where inputs such as file URL information from the user are received:
+- 
 
 ![02]()
 
