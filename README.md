@@ -40,31 +40,18 @@ Yerel makinenizde `zenity` ve `inxi` kurulmuş olmalıdır. Bu kurulumları aşa
 - Bu işlemden sonra listeden gerekli komut seçilir ve devam edilir.
 
 ## :framed_picture: Program Görüntüleri 
-- Kullanıcıya sunulan seçenekler (opsiyonlar) aşağıdaki gibidir:
+- ![Screenshot from 2023-01-04 19-36-36](https://user-images.githubusercontent.com/46872799/210625820-ec5c883c-277d-4251-afdc-45432cb1b365.png)
 
-![01](![Screenshot from 2023-01-04 18-28-06](https://user-images.githubusercontent.com/46872799/210614243-55f2168b-29f1-470f-81ad-cfcb5a5697e2.png)
-)
- 
-- pencere:
 
-![02]()
+- ![Screenshot from 2023-01-04 19-38-04](https://user-images.githubusercontent.com/46872799/210626009-346ca967-31f4-4718-9473-fe53237c5f01.png)
 
-- İndirme işleminde bir sorun oluşması durumunda ekrana gelen pencere:
 
-![03]()
+- ![Screenshot from 2023-01-04 19-38-43](https://user-images.githubusercontent.com/46872799/210626147-967d1078-f929-4538-8bd5-74bbbe83c6a5.png)
 
-- İndirme başarıyla tamamlandığında ekrana gelecek olan pencere:
 
-![04]()
+- ![Screenshot from 2023-01-04 19-40-29](https://user-images.githubusercontent.com/46872799/210626372-a95d2d1e-f245-40f1-b974-7bc9dc05e7c6.png)
 
-- Boyutu yüksek olan dosyaların indirilmesi sırasında `progresbar` penceresi , indirme tamamlanana kadar görünmektedir:
 
-![05]()
+- ![Screenshot from 2023-01-04 19-43-16](https://user-images.githubusercontent.com/46872799/210626795-a82496df-f05d-4d0b-9859-556138460583.png)
 
-- Kullanıcı `wget` sürümünü öğrenmek istediğinde ekrana gelen pencere:
 
-![06]()
-
-- Kullanıcı programdan çıkış yapmak istediğinde ekrana gelen pencere :
-
-![07]()
