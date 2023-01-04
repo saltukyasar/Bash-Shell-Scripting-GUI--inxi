@@ -1,6 +1,6 @@
-# GUI Bash Script --wget
+# GUI Bash Script --inxi
 
-Bash script programming - GUI for wget command
+Bash script programming - GUI for inxi command
 ## :computer: What is the GUI?
 
 GUI (Graphical User Interface) are designs developed to help electronic devices use icons, icons and other visual graphics. In old generation computers and electronic devices using command-based operating system before GUI, command line was used to perform any operation. Users were performing every operation on the computer using the keyboard and commands.
