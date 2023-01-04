@@ -40,18 +40,24 @@ Yerel makinenizde `zenity` ve `inxi` kurulmuş olmalıdır. Bu kurulumları aşa
 - Bu işlemden sonra listeden gerekli komut seçilir ve devam edilir.
 
 ## :framed_picture: Program Görüntüleri 
-- ![Screenshot from 2023-01-04 19-36-36](https://user-images.githubusercontent.com/46872799/210625820-ec5c883c-277d-4251-afdc-45432cb1b365.png)
+
+- Fotoğraftaki gibi programımızı çalıştırıyoruz:
+ ![Screenshot from 2023-01-04 19-36-36](https://user-images.githubusercontent.com/46872799/210625820-ec5c883c-277d-4251-afdc-45432cb1b365.png)
 
 
-- ![Screenshot from 2023-01-04 19-38-04](https://user-images.githubusercontent.com/46872799/210626009-346ca967-31f4-4718-9473-fe53237c5f01.png)
+- Arayüzümüzden istediğimiz komudu seçiyoruz:
+ ![Screenshot from 2023-01-04 19-38-04](https://user-images.githubusercontent.com/46872799/210626009-346ca967-31f4-4718-9473-fe53237c5f01.png)
 
 
-- ![Screenshot from 2023-01-04 19-38-43](https://user-images.githubusercontent.com/46872799/210626147-967d1078-f929-4538-8bd5-74bbbe83c6a5.png)
+- Seçtiğimiz komutun bilgisini alıyoruz: 
+ ![Screenshot from 2023-01-04 19-38-43](https://user-images.githubusercontent.com/46872799/210626147-967d1078-f929-4538-8bd5-74bbbe83c6a5.png)
 
 
-- ![Screenshot from 2023-01-04 19-40-29](https://user-images.githubusercontent.com/46872799/210626372-a95d2d1e-f245-40f1-b974-7bc9dc05e7c6.png)
+- İsterseniz bu bilgileri bir dosyaya kayıt edebilirsiniz: 
+![Screenshot from 2023-01-04 19-40-29](https://user-images.githubusercontent.com/46872799/210626372-a95d2d1e-f245-40f1-b974-7bc9dc05e7c6.png)
 
 
-- ![Screenshot from 2023-01-04 19-43-16](https://user-images.githubusercontent.com/46872799/210626795-a82496df-f05d-4d0b-9859-556138460583.png)
+- Kayıt ettiğiniz bilgilerin fotoğrafı:
+ ![Screenshot from 2023-01-04 19-43-16](https://user-images.githubusercontent.com/46872799/210626795-a82496df-f05d-4d0b-9859-556138460583.png)
 
 
