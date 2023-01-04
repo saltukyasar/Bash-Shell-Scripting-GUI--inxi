@@ -42,7 +42,8 @@ Yerel makinenizde `zenity` ve `inxi` kurulmuş olmalıdır. Bu kurulumları aşa
 ## :framed_picture: Program Görüntüleri 
 - Kullanıcıya sunulan seçenekler (opsiyonlar) aşağıdaki gibidir:
 
-![01]()
+![01](![Screenshot from 2023-01-04 18-28-06](https://user-images.githubusercontent.com/46872799/210614243-55f2168b-29f1-470f-81ad-cfcb5a5697e2.png)
+)
  
 - pencere:
 
