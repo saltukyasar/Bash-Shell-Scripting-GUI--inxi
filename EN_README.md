@@ -39,16 +39,17 @@ You can make sure that the downloads are successful or not by typing the followi
 - After this process, the required operations (file URL information, etc.) are given as input to the program in the user interface of the program and the program runs the necessary functions.
 
 ## :framed_picture: Program Images
+- We run our program as in the photo:
 - ![Screenshot from 2023-01-04 19-36-36](https://user-images.githubusercontent.com/46872799/210625820-ec5c883c-277d-4251-afdc-45432cb1b365.png)
 
-
+- We choose the command we want from our interface:
 - ![Screenshot from 2023-01-04 19-38-04](https://user-images.githubusercontent.com/46872799/210626009-346ca967-31f4-4718-9473-fe53237c5f01.png)
 
-
+- We get the information of the command we have chosen:
 - ![Screenshot from 2023-01-04 19-38-43](https://user-images.githubusercontent.com/46872799/210626147-967d1078-f929-4538-8bd5-74bbbe83c6a5.png)
 
-
+- If you want, you can save this information to a file:
 - ![Screenshot from 2023-01-04 19-40-29](https://user-images.githubusercontent.com/46872799/210626372-a95d2d1e-f245-40f1-b974-7bc9dc05e7c6.png)
 
-
+- Photograph of the information you have registered:
 - ![Screenshot from 2023-01-04 19-43-16](https://user-images.githubusercontent.com/46872799/210626795-a82496df-f05d-4d0b-9859-556138460583.png)
