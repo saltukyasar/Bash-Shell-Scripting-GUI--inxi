@@ -2,7 +2,7 @@
 [Click here](EN_README.md) for English README.
 Bash script programming - GUI for inxi command
 
-:movie_camera: Kodların anlatımı ve script dosyasının kullanımı için hazırlanan videoya [buraya](https://www.youtube.com/watch?v=g921UNfYXIo) tıklayarak ulaşabilirsiniz.
+:movie_camera: Kodların anlatımı ve script dosyasının kullanımı için hazırlanan videoya [buraya]() tıklayarak ulaşabilirsiniz.
 
 ## :computer: GUI Nedir?
 **GUI** (Graphical User Interface), Grafiksel Kullanıcı Arayüzü, elektronik cihazların simgeler, ikonlar ve diğer görsel grafikler yardımıyla kullanmasına yardımcı olması amacıyla geliştirilmiş tasarımlardır. GUI öncesi komut bazlı işletim sistemi kullanılan eski nesil bilgisayarlar ve elektronik cihazlarda herhangi bir işlemi gerçekleştirmek için komut satırı kullanılıyordu. Kullanıcılar bilgisayar üzerindeki her işlemi  klavye  üzerinden ve komutları kullanarak gerçekleştiriyordu.
